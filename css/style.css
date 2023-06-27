@@ -11,6 +11,11 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+header {
+
+    padding: 0.5rem 1.5rem;
+}
+
 main, footer {
 
 /*     background-color: rgba(246,248,249,255); DA RIPRISTINARE */
@@ -42,7 +47,7 @@ h2 {
 .heading_title {
 
     font-size: 2rem;
-    vertical-align: 50%;
+    vertical-align: 1rem;
     font-weight: bold;
 
 }
